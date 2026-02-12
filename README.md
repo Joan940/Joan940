@@ -12,7 +12,7 @@ I specialize in building interactive robot interfaces and backend communication 
 - 🌱 Deepening my knowledge in **Numerical Computation** and **Data Structures**.
 - 👯 Open to collaborate on **IoT, Robotics, and Python Automation projects**.
 
-[**Download My CV**](Link_Google_Drive_CV_Anda_Disini) • [**Connect on LinkedIn**](https://www.linkedin.com/in/joan-marcell-8461902a7/)
+[**Download My CV**](https://docs.google.com/document/d/1WjIO062J90mB_zOkD3w49Gt-Tko8nF_o/edit?usp=sharing&ouid=104805389471586232336&rtpof=true&sd=true) • [**Connect on LinkedIn**](https://www.linkedin.com/in/joan-marcell-8461902a7/)
 
 ---
 
