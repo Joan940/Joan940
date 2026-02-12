@@ -18,13 +18,13 @@ I specialize in building interactive robot interfaces and backend communication 
 
 ## 🚀 Featured Projects
 
-### 🤖 [Serving Robot UI System](LINK_REPO_ROBOT_ANDA_DISINI)
+### 🤖 [Serving Robot UI System](https://github.com/Joan940/Service-Robots)
 **Role:** UI Programmer Intern @ BMP.NET
 A real-time graphical interface for serving robots using **Python (Pygame)** on **Raspberry Pi 5**.
 - **Tech:** UDP Socket, Pygame, Raspberry Pi.
 - **Key Feature:** Visualizes robot navigation path and dynamic facial expressions.
 
-### ⚽ [Wheeled Soccer Robot Communication](LINK_REPO_BOLA_ANDA_DISINI)
+### ⚽ [Wheeled Soccer Robot Communication](https://github.com/Joan940/R2C---BASESTATION---WARRIOR)
 **Role:** Communication Programmer R2C
 Designed the communication protocol for a team of 3 soccer robots to coordinate strategies in the Indonesian Robotics Competition (KRI).
 - **Tech:** Python, Wireless Protocol.
