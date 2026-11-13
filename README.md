@@ -5,14 +5,14 @@
 ---
 
 ## 👨‍💻 About Me
-I am a third-year Computer Engineering student at **Universitas Kristen Satya Wacana** with a strong focus on **Robotics, Embedded Systems, and Real-time Communication**.
+I am a fourth-year Computer Engineering student at **Universitas Kristen Satya Wacana** with a strong focus on **Robotics, Embedded Systems, and Real-time Communication**.
 
 I specialize in building interactive robot interfaces and backend communication services. Currently, I am:
 - 🔭 Working on a **Milk Collection System** for dairy farmers.
-- 🌱 Deepening my knowledge in **Numerical Computation** and **Data Structures**.
+- 🌱 Deepening my knowledge in **Object Oriented Programming** and **Data Structures**.
 - 👯 Open to collaborate on **IoT, Robotics, and Python Automation projects**.
 
-[**Download My CV**](https://docs.google.com/document/d/1WjIO062J90mB_zOkD3w49Gt-Tko8nF_o/edit?usp=sharing&ouid=104805389471586232336&rtpof=true&sd=true) • [**Connect on LinkedIn**](https://www.linkedin.com/in/joan-marcell-8461902a7/)
+[**Download My CV**](https://docs.google.com/document/d/1bOV9FlEB0DySzpoBno4osQ94lcZUk7_7/edit?usp=sharing&ouid=107064826359994844128&rtpof=true&sd=true) • [**Connect on LinkedIn**](https://www.linkedin.com/in/joan-marcell-8461902a7/)
 
 ---
 
@@ -28,6 +28,11 @@ A real-time graphical interface for serving robots using **Python (Pygame)** on 
 **Role:** Communication Programmer R2C
 Designed the communication protocol for a team of 3 soccer robots to coordinate strategies in the Indonesian Robotics Competition (KRI).
 - **Tech:** Python, Wireless Protocol.
+
+### [Milk Collection System]
+Designed Milk Collection System based on IoT with Local-to-Cloud architecture to calculate milk volume from farmers in Kopeng Village.
+- **Tech:** Mesh Routing, TCP Socket, Pygame, Dart, ESP32, LoRa, LiDAR, Micro SD Module, RFID, LCD, RTC.
+- **Key Feature:** Calculate milk volume at two milk storage facilities using wireless communication (Mesh Routing), local database, and mirroring database to cloud database for monitoring.
 
 ---
 
