@@ -29,7 +29,7 @@ A real-time graphical interface for serving robots using **Python (Pygame)** on 
 Designed the communication protocol for a team of 3 soccer robots to coordinate strategies in the Indonesian Robotics Competition (KRI).
 - **Tech:** Python, Wireless Protocol.
 
-### [Milk Collection System]
+### [Milk Collection System](https://github.com/Joan940/Milk-Collection-Systems.git)
 Designed Milk Collection System based on IoT with Local-to-Cloud architecture to calculate milk volume from farmers in Kopeng Village.
 - **Tech:** Mesh Routing, TCP Socket, Pygame, Dart, ESP32, LoRa, LiDAR, Micro SD Module, RFID, LCD, RTC.
 - **Key Feature:** Calculate milk volume at two milk storage facilities using wireless communication (Mesh Routing), local database, and mirroring database to cloud database for monitoring.
